@@ -1,0 +1,14 @@
+{
+  "resourceName": "Pliki",
+  "policyUUID": "438583db",
+  "bucketName": "firstbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggercf62bf7e",
+  "groupAccess": {}
+}

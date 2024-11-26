@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zadanie7-dev-f488f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147997132399:role/amplify-zadanie7-dev-f488f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147997132399:role/amplify-zadanie7-dev-f488f-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-zadanie7-dev-f488f-deployment",
+      "UnauthRoleName": "amplify-zadanie7-dev-f488f-unauthRole",
+      "StackName": "amplify-zadanie7-dev-f488f",
+      "StackId": "arn:aws:cloudformation:eu-west-1:147997132399:stack/amplify-zadanie7-dev-f488f/ca5eb0c0-ac27-11ef-93d5-024715b81beb",
+      "AmplifyAppId": "d238ol99rqhquk"
+    },
+    "categories": {
+      "auth": {
+        "zadanie765407858": {}
+      }
+    }
+  }
+}
