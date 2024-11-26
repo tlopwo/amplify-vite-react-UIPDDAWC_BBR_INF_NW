@@ -14,6 +14,18 @@
     "categories": {
       "auth": {
         "zadanie765407858": {}
+      },
+      "function": {
+        "S3Triggercf62bf7e": {
+          "deploymentBucketName": "amplify-zadanie7-dev-f488f-deployment",
+          "s3Key": "amplify-builds/S3Triggercf62bf7e-57586f505056336e704a-build.zip"
+        }
+      },
+      "api": {
+        "zadanie7": {}
+      },
+      "storage": {
+        "Pliki": {}
       }
     }
   }
