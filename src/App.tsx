@@ -44,7 +44,7 @@ function App() {
         <br />
         <p>Link do repozytorium</p>
         <a href="https://github.com/tlopwo/amplify-vite-react-UIPDDAWC_BBR_INF_NW">
-          Kamil Kowalczyk 88618
+          Kamil Kowalczyk 88168
         </a>
       </div>
       <button onClick={signOut}>Sign out</button>
